@@ -6,19 +6,20 @@ Due to copyright i can't add the csv dataset; the analysis is organised into 5 s
 ### 1)Data Preparation after choosing relevant features
 
 ### 2)Exploratory Data Analysis
--numeric variables 
+-numeric variables
 -categorical variables
-- 95% confidence intervals
+-95% confidence intervals
+
 
 ### 3)Linear Regression Models
 -simple regressions for each predictor
 -multiple linear regression
-- residuals analysis
+-residuals analysis
   
 ### 4)Logistic Regression
 -predict pension yes/no
 confusion matrix, sensitivity, specificity
-ROC curve 
+-ROC curve 
 
 ### 5)Cluster Analysis 
-Gower distance due to categorical variables
+-Gower distance due to categorical variables
